@@ -8,7 +8,7 @@ These include requestFiles, requestLog, requestStatus, requestTechnicalData and 
 
 When defining the Cegid ORLI job, first select a Job Type of Windows and then Cegid ORLI Job Subtype. The Cegid ORLI Definition screen will then appear.
 
-The job definition consists of 2 separate areas, with a general area required by all Cegid Orli jobs and specific information depending on the selected job type (requestFiles, requestLog, requestStatus, requestTechnicalData and executeRequest).
+The job definition consists of 2 separate areas, with a general area required by all Cegid ORLI jobs and specific information depending on the selected job type (requestFiles, requestLog, requestStatus, requestTechnicalData and executeRequest).
  
 ### General Information
  

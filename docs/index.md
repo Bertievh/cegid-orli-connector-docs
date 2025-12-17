@@ -1,9 +1,9 @@
 ---
 slug: '/'
-sidebar_label: 'Cegid Orli Connector'
+sidebar_label: 'Cegid ORLI Connector'
 ---
 
-# Cegid Orli Connector
+# Cegid ORLI Connector
 
 **Latest Version is 25.0**
 
